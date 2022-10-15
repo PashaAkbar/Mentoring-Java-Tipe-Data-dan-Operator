@@ -90,6 +90,13 @@ class Main {
         // System.out.println(doubleBaru);
 
         // Contoh Soal
+        // Buatlah program yang dapat mengkonversi waktu menjadi detik, dimana waktu
+        // yang diketahui yaitu 5 jam 30 menit!
+        // int jam, menit, detik;
+        // jam = 5;
+        // menit = 30;
+        // detik = jam * 3600 + menit * 60;
+        // System.out.println(jam + " jam " + menit + " detik = " + detik + " detik");
 
     }
 }
